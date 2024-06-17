@@ -120,7 +120,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-# .env
+# .env # En attendant de mettre en place le chiffrement de ce fichier, nous censurons nous-même les variables sensibles.
 .venv
 env/
 venv/
